@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# VSCode or PyCharm
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
